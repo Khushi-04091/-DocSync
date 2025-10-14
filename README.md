@@ -31,17 +31,6 @@ Prescripto is a modern healthcare appointment platform that connects patients wi
 
 ---
 
-<div align="center">
-
-## LIVE - DEMO 🌐
-  
-**UI** 👉 [LINK](https://prescripto-frontend-lovat.vercel.app)
-
-**Admin Dashboard** 👉 [LINK](https://prescripto-admin-beta.vercel.app)
-</div>
-
----
-
 ## Features
 
 ### For Patients
@@ -99,8 +88,8 @@ backend/      # REST API backend (Node.js + Express + MongoDB)
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-org/prescripto.git
-   cd prescripto
+   git clone https://github.com/Khushi-04091/PrescriptoPanel.git
+   cd PrescriptoPanel
    ```
 
 2. **Install dependencies for each app:**
@@ -204,17 +193,6 @@ We welcome contributions from everyone!
 ## License 📝
 
 This project is distributed under [MIT license](https://github.com/elyse502/prescripto/blob/main/LICENSE). Enjoy! 🎉
-
----
-
-## Contact
-
-- **Author:** [NIYIBIZI Elysée](https://linktr.ee/niyizi_elysee)
-- **LinkedIn:** [niyibizi-elysée](https://www.linkedin.com/in/niyibizi-elys%C3%A9e/)
-- **Twitter:** [@Niyibizi_Elyse](https://twitter.com/Niyibizi_Elyse)
-- **GitHub:** [elyse502](https://github.com/elyse502)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niyibizi-elys%C3%A9e/) [![@phenrysay](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Niyibizi_Elyse) [![pH-7](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elyse502)
 
 ---
 
