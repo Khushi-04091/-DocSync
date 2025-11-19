@@ -1,9 +1,9 @@
 <div align="center">
   
-# PRESCRIPTO 👨‍⚕️🏥🤒
+# DocSync 👨‍⚕️🏥🤒
 </div>
 
-Prescripto is a full-stack appointment booking system for clinics and hospitals, supporting three user roles: Patients, Doctors, and Admins. It streamlines healthcare appointment management, offering a seamless experience for users and robust controls for providers and administrators.
+DOCSync is a full-stack appointment booking system for clinics and hospitals, supporting three user roles: Patients, Doctors, and Admins. It streamlines healthcare appointment management, offering a seamless experience for users and robust controls for providers and administrators.
 
 ---
 
